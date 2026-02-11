@@ -1,6 +1,6 @@
 .hero {
   height: 80vh;
-  background: url('https://imgs.search.brave.com/oo2yW8FxYuAnfliGe6swHpiG4W3lc2ajNnnTrimjbW8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvY2Fm/ZS1iYWNrZ3JvdW5k/LTY0eWlldzFxaGVs/YnFpbDMuanBn') center/cover no-repeat;
+  background: url(../../assets/cafe.webp) center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
