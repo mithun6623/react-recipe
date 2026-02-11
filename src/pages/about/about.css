@@ -1,0 +1,14 @@
+.about-page {
+  padding: 50px;
+  line-height: 1.6;
+}
+
+.about-page h1, .about-page h2 {
+  margin-bottom: 15px;
+}
+
+.about-page ul {
+  margin: 20px 0;
+  list-style-type: disc;
+  padding-left: 20px;
+}
